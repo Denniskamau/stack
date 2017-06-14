@@ -1,0 +1,3 @@
+[console_scripts]
+stacks = stacks.main:start
+

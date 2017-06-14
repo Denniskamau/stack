@@ -1,0 +1,9 @@
+setup.py
+stacks/__init__.py
+stacks/main.py
+stacks.egg-info/PKG-INFO
+stacks.egg-info/SOURCES.txt
+stacks.egg-info/dependency_links.txt
+stacks.egg-info/entry_points.txt
+stacks.egg-info/requires.txt
+stacks.egg-info/top_level.txt

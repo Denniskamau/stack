@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: stacks
+Version: 0.0.1
+Summary: stacks for stack graphs
+Home-page: https://github.com/Denniskamau/stacks.git
+Author: Dennis Kamau
+Author-email: denniskamau3@gmail.com
+License: MIT License
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
